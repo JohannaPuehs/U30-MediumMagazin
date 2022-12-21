@@ -25,3 +25,5 @@ company = Unternehmen
 location = Standort
 
 position = Arbeitsstelle
+
+orr = Arbeitsstelle beim öffentlich-rechtlichen Rundfunk (j=ja/n=nein)
